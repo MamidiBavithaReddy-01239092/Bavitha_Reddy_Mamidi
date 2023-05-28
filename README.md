@@ -80,15 +80,7 @@ By this user can understand the security policies and also they can identify the
             
           </div>
         </div>
-        <!-- <div class="project-item">
-          <div class="project-info">
-            <h1><b>Project 3</b></h1><br>
-            <h2><b>ELECTRONIC VOTING MACHINE WITH BIOMETRIC AUTHENTICATION USING ARDUINO</b></h2><br>
-            <p>I developed a Electronic Voting Machine with Biometric Authentication using Arduino. It has been developed to make the voting process more secure 
-and fare. User needs to go through the verification and registration process before the election process. During the process of election user or voter can use there 
-right of vote by authenticating with biometric and cast the vote.  
-</p>
-          </div> -->
+    
           <div class="project-img">
             
           </div>

@@ -80,14 +80,11 @@ By this user can understand the security policies and also they can identify the
             
           </div>
         </div>
-    
-          <div class="project-img">
-            
+      
+          <div class="project-img">  
           </div>
-        </div>
-            
-          </div>
-         
+        </div>  
+	  </div>
         </div>
       </div>
     </div>
@@ -169,8 +166,6 @@ By this user can understand the security policies and also they can identify the
         <h1>Bavitha Reddy Mamidi</h1>
       </div>
       
-      <
-        
         
       
       
